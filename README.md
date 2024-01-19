@@ -64,10 +64,13 @@ Histograms displaying the sampling distribution of mean satisfaction with curren
    ```bash
    git clone https://github.com/your-username/green-mobility-survey-dashboard.git
 
-2. install the dependecies:    
-  pip install -r requirements.txt
+2. install the dependecies:
 
-3. run the Streamlit app
-   
-streamlit run app.py
+   ```bash
+   pip install -r requirements.txt
+
+4. run the Streamlit app
+
+   ```bash
+   streamlit run app.py
 
