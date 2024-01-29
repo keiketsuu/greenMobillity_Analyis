@@ -10,7 +10,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-dataset_path = os.getenv('GREEN_MOBILITY_DATASET')
+#dataset_path = os.getenv('GREEN_MOBILITY_DATASET')
+
+dataset_path = os.path.join(os.path.dirname(__file__), 'greenMobility.xlsx')
 
 # Load dataset
 
