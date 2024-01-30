@@ -1,5 +1,9 @@
 # Green Mobility Survey Dashboard
 
+![image](https://github.com/mowachab/greenMobillity_Analyis/assets/83830083/66345ae0-ff4b-4dbc-97d0-79f6282f8238)
+
+
+
 ## Overview
 
 The Green Mobility Survey Dashboard is a web interface developed as part of a data analysis project to understand how students use transportation. The goal is to explore and understand their behavior to identify areas for improvement and promote greener transportation choices.
